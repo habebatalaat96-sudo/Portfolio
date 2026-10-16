@@ -14,9 +14,8 @@ export default function Hero() {
             </div>
 
             <h1 className="hero-title reveal delay-1">
-              Ahmed Talaat
+              Mohamed Hasan
               <br />
-              <span>Ahmed</span>
             </h1>
 
             <p className="hero-subtitle reveal delay-2">
