@@ -4,7 +4,7 @@ export default function Navbar({ darkMode, setDarkMode }) {
     <nav className="navbar navbar-expand-lg fixed-top glass-nav">
       <div className="container">
         <a className="navbar-brand fw-bold" href="#home">
-          <span className="brand-dot"></span> Ahmed Talaat
+          <span className="brand-dot"></span> Mohamed Hasan
         </a>
 
         <button
